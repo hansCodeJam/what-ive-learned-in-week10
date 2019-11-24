@@ -47,7 +47,7 @@ document.getElementById("myDIV").classList.add("mystyle");
 A function that is stored in a variable
 
 ```javascript
-let getRectArea = function(width, height) {
+const getRectArea = function(width, height) {
     return width * height;
 
 
